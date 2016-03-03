@@ -30,7 +30,7 @@ public class BallController : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		input = new XboxInput ((XboxController)playerIndex);
+		input = new VRLabInput((XboxController)playerIndex);
 		ballMaterial = GetComponent<Renderer> ().material;
 		initialColor = ballMaterial.color;
 

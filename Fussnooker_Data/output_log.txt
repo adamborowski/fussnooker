@@ -1,0 +1,35 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 690 (ID=0x1188)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+Platform assembly: E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+Platform assembly: E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Users\Public\Documents\Unity Projects\adam-fussnooker\Fussnooker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 5760x1080 at -1920,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.537207 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: d38 -> priority: 1 
+black score, blame: OTHER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

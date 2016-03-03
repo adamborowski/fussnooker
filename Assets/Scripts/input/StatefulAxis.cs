@@ -35,9 +35,9 @@ namespace AssemblyCSharp
 			prevValue = value;
 			value = newValue;
 			maxValue = Mathf.Max (maxValue, newValue);
-			if (releaseEnded ()) {//użytkownik puścił przycisk, reset max
-				resetMaxValue ();
-			}
+			//if (releaseEnded ()) {//użytkownik puścił przycisk, reset max
+			//	resetMaxValue ();
+			//}
 		}
 
 		public bool pressStarted ()
